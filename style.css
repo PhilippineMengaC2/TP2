@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #CECEF6;
 }
 
 #header
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #D0A9F5;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #BDBDBD;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
